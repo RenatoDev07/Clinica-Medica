@@ -8,7 +8,7 @@ const USER = {
 };
 
 const NEXT_APPOINTMENT = {
-  doctor: "Dr. Carlos Mendes",
+  doctor: "Dr. Eduardo Oliveira",
   specialty: "Cardiologia",
   time: "09:30",
   day: "18",
